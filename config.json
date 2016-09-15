@@ -1,0 +1,7 @@
+{
+  "context_path": "db",
+  "port": 80,
+  "save_path": "./datas",
+  "resource_path": "./",
+  "urls" : ["http://107.167.186.179:80/dsp/rest/v1","http://104.155.231.105:80/dsp/rest/v1"]
+}
